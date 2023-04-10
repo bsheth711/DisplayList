@@ -2,22 +2,10 @@ package com.displaylist.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.ContentValues;
-import android.content.Context;
-import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
+
 import android.os.Bundle;
 
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.io.IOException;
-import android.util.JsonReader;
-import java.io.InputStreamReader;
-import java.io.Reader;
-import java.util.concurrent.TimeUnit;
-
 import android.database.Cursor;
-import android.util.Log;
 import android.widget.LinearLayout;
 import android.view.LayoutInflater;
 import android.widget.TextView;
